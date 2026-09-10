@@ -16,5 +16,6 @@ https://dionysus23334.github.io/maohai-pet-home/
 
 ## 预约联系方式
 
-目前预约按钮显示说明弹窗，尚未接入电话、微信或在线预约服务。
+预约说明弹窗和网站底部提供小红书联系入口：https://xhslink.cn/o/8LaLTddr73K 。
 补充联系方式时，修改 `index.html` 的 `booking` 弹窗。
+
